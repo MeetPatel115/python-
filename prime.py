@@ -7,4 +7,4 @@ for i in range(2,n):
 if a:
     print(f" This is {n } Prime Number")
 else:
-    print(f"This is {n}not aPrime Number")
+    print(f"This is {n} not a Prime Number")
